@@ -1,0 +1,51 @@
+FATAL   2020-05-28 12:47:33,216 [http-nio-8084-exec-9] nhunnq.controllers.SearchServlet  - Nhu tu
+FATAL   2020-05-28 12:47:37,588 [http-nio-8084-exec-16] nhunnq.controllers.SearchServlet  - Nhu tu
+FATAL   2020-05-29 15:28:11,202 [http-nio-8084-exec-231] nhunnq.controllers.RegisterServlet  - RegisterServlet_SQLException: Violation of PRIMARY KEY constraint 'PK_Users'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (ducthinh55@fpt.edu.vn).
+FATAL   2020-05-30 14:34:35,223 [http-nio-8084-exec-9] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:34:37,690 [http-nio-8084-exec-10] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:34:38,457 [http-nio-8084-exec-7] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:34:38,625 [http-nio-8084-exec-8] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:34:38,984 [http-nio-8084-exec-2] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:34:39,349 [http-nio-8084-exec-1] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:34:39,691 [http-nio-8084-exec-3] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:34:40,034 [http-nio-8084-exec-6] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:34:40,376 [http-nio-8084-exec-5] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:34:40,541 [http-nio-8084-exec-4] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:39:34,881 [http-nio-8084-exec-13] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:39:46,796 [http-nio-8084-exec-12] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:39:51,655 [http-nio-8084-exec-2] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:39:52,644 [http-nio-8084-exec-4] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:39:52,822 [http-nio-8084-exec-14] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:39:53,940 [http-nio-8084-exec-7] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:39:54,112 [http-nio-8084-exec-15] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:42:05,471 [http-nio-8084-exec-19] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:42:15,100 [http-nio-8084-exec-20] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:42:15,388 [http-nio-8084-exec-14] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:42:15,702 [http-nio-8084-exec-11] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:42:15,883 [http-nio-8084-exec-18] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:43:14,081 [http-nio-8084-exec-20] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:43:48,406 [http-nio-8084-exec-26] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:45:01,851 [http-nio-8084-exec-28] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 14:52:23,120 [http-nio-8084-exec-39] nhunnq.controllers.SearchServlet  - SearchServlet_SQLException: The result set has no current row.
+FATAL   2020-05-30 22:24:18,726 [http-nio-8084-exec-405] nhunnq.controllers.LoadQuizServlet  - LoadQuizServlet_NamingException: Incorrect syntax near '@P0'.
+FATAL   2020-05-30 22:28:59,667 [http-nio-8084-exec-428] nhunnq.controllers.LoadQuizServlet  - LoadQuizServlet_NamingException: Incorrect syntax near '@P0'.
+FATAL   2020-05-30 22:44:09,521 [http-nio-8084-exec-434] nhunnq.controllers.LoadQuizServlet  - LoadQuizServlet_NamingException: Incorrect syntax near '@P0'.
+FATAL   2020-05-30 22:48:42,863 [http-nio-8084-exec-446] nhunnq.controllers.LoadQuizServlet  - LoadQuizServlet_NamingException: Incorrect syntax near '@P0'.
+FATAL   2020-05-30 22:51:39,965 [http-nio-8084-exec-448] nhunnq.controllers.LoadQuizServlet  - LoadQuizServlet_NamingException: Incorrect syntax near '@P0'.
+FATAL   2020-05-30 22:51:50,040 [http-nio-8084-exec-460] nhunnq.controllers.LoadQuizServlet  - LoadQuizServlet_NamingException: The index 2 is out of range.
+FATAL   2020-06-01 22:26:29,713 [http-nio-8084-exec-237] nhunnq.controllers.ViewHistoryServlet  - ViewHistoryServlet_SQLException: The value is not set for the parameter number 2.
+FATAL   2020-06-01 22:28:37,209 [http-nio-8084-exec-244] nhunnq.controllers.ViewHistoryServlet  - ViewHistoryServlet_SQLException: The value is not set for the parameter number 2.
+FATAL   2020-06-01 22:28:47,093 [http-nio-8084-exec-248] nhunnq.controllers.ViewHistoryServlet  - ViewHistoryServlet_SQLException: Incorrect syntax near 'ONLY@P1'.
+FATAL   2020-06-01 22:29:12,519 [http-nio-8084-exec-249] nhunnq.controllers.ViewHistoryServlet  - ViewHistoryServlet_SQLException: The value is not set for the parameter number 3.
+FATAL   2020-06-01 22:30:48,742 [http-nio-8084-exec-249] nhunnq.controllers.ViewHistoryServlet  - ViewHistoryServlet_SQLException: The value is not set for the parameter number 3.
+FATAL   2020-06-01 22:31:00,487 [http-nio-8084-exec-254] nhunnq.controllers.ViewHistoryServlet  - ViewHistoryServlet_SQLException: The value is not set for the parameter number 3.
+FATAL   2020-06-01 22:32:13,436 [http-nio-8084-exec-275] nhunnq.controllers.ViewHistoryServlet  - ViewHistoryServlet_SQLException: The value is not set for the parameter number 3.
+FATAL   2020-06-01 22:32:21,673 [http-nio-8084-exec-283] nhunnq.controllers.ViewHistoryServlet  - ViewHistoryServlet_SQLException: The column name SubName is not valid.
+FATAL   2020-06-01 22:33:34,888 [http-nio-8084-exec-280] nhunnq.controllers.ViewHistoryServlet  - ViewHistoryServlet_SQLException: The column name SubName is not valid.
+FATAL   2020-06-01 22:34:43,360 [http-nio-8084-exec-293] nhunnq.controllers.ViewHistoryServlet  - ViewHistoryServlet_SQLException: The column name SubName is not valid.
+FATAL   2020-06-01 22:37:53,833 [http-nio-8084-exec-300] nhunnq.controllers.ViewHistoryServlet  - ViewHistoryServlet_SQLException: The column name SubName is not valid.
+FATAL   2020-06-02 11:03:08,129 [http-nio-8084-exec-27] nhunnq.controllers.InsertServlet  - InsertServlet_SQLException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Answer_Questions". The conflict occurred in database "TestQuiz", table "dbo.Questions", column 'QuestionId'.
+FATAL   2020-06-02 11:04:15,566 [http-nio-8084-exec-29] nhunnq.controllers.InsertServlet  - InsertServlet_SQLException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Answer_Questions". The conflict occurred in database "TestQuiz", table "dbo.Questions", column 'QuestionId'.
+FATAL   2020-06-02 22:02:52,803 [http-nio-8084-exec-4] nhunnq.controllers.RegisterServlet  - RegisterServlet_SQLException: Violation of PRIMARY KEY constraint 'PK_Users'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (quynhtrang@fpt.com.vn).
+FATAL   2020-06-16 13:18:08,229 [http-nio-8084-exec-4] nhunnq.controllers.RegisterServlet  - RegisterServlet_SQLException: Violation of PRIMARY KEY constraint 'PK_Users'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (minhnhu@gmail.com).
+FATAL   2020-06-16 13:31:33,125 [http-nio-8084-exec-18] nhunnq.controllers.UpdateServlet  - UpdateServlet_SQLException: The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Questions_Subjects". The conflict occurred in database "TestQuiz", table "dbo.Subjects", column 'SubId'.
